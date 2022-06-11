@@ -10,4 +10,4 @@ I has participated as head of temperature control in a project associated with M
 
 I has also worked as an Internal Engineer for continuous improvement under the world-class methodology at Whirlpool Celaya in the area of mechanical presses and as part of the automation team in the position of supervisor at Deacero Celaya-Salvatierra, being in charge of the entire technological team, including especially PLCs, HDMIs and Plant Networks.
 
-Contact: juanortega.cursos@gmail.com.
+Contact email: juanortega.cursos@gmail.com.
